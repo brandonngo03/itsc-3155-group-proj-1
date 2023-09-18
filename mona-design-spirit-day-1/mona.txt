@@ -1,6 +1,0 @@
-Scenarios (20)
-User stories (20)
-Feature list (10)
-I am a student at uncc in his first year. Im a computer science major and am looking for new ways to improve my learning experience and a type of guide to help me through college.
-I used this website to help me learn more about computer science and guide myself on how to make myself more marketable to jobs throughout my college career. 
-It has so many features like the ability to see tips from past alumni and a guide to finding out how to progress in the place I am currently in.
