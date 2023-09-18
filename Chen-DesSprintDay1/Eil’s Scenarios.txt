@@ -1,0 +1,12 @@
+Eil’s Scenarios
+SCENARIOS
+	A student named john learns about CCILearning+. He then registers for the program and completes a quick assessment.The program has him chooses a career path and sets him on it. John gets set up with interviews and assessments to better his skills. After john is done he can choose to pursue graduate studies search for jobs. 
+USER STORIES 
+	I need to find a job. I’m using CCILearning+ to learn about what requirements I need for a successful career. I want to be able to have mock interviews and assessments to test my skills as well as graduate study opportunities.
+FEATURES: 
+Assess student’s skills and provides resources for them to improve skills
+Mock interviews
+Dashboard to track process
+Community engagement
+Peer reviews
+Job search help
